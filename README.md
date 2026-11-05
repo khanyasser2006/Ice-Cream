@@ -142,7 +142,7 @@ node scripts/extract_all_assets.cjs
 
 ---
 
-## 🎥 Demo
+## 🎥 Videos
 
 *Add a screen recording of the hero scroll here, followed by the peach "how it's made" section — the process steps changing with the fruit on screen is the best part.*
 
